@@ -86,5 +86,8 @@ func main() {
 	var numCPU = runtime.NumCPU()
 	fmt.Println("Number of threads = ", numCPU)
 
+	// add a few lines of comments for push purpose
+	// 2022-10-02
+	// add somethings for it
 	cpuInfo()
 }
