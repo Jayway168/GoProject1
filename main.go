@@ -89,5 +89,10 @@ func main() {
 	// add a few lines of comments for push purpose
 	// 2022-10-02
 	// add somethings for it
+	// add more
+	// add more
+	// add more
+	// add more
+	// add more
 	cpuInfo()
 }
